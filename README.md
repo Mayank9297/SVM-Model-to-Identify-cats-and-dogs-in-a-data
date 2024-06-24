@@ -11,6 +11,9 @@ Customizable Preprocessing: Explore different image preprocessing techniques (re
 Evaluation Metrics: Provides accuracy, precision, recall, and F1-score to assess the model's effectiveness.
 Easy to Use: Includes clear instructions and well-structured code for user-friendliness.
 
+**Link to the data**
+https://www.kaggle.com/c/dogs-vs-cats/data
+
 **Further Exploration:**
 
 Experiment with different SVM hyperparameters (e.g., kernel type, regularization) to potentially improve accuracy.
